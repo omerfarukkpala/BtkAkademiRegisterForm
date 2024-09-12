@@ -2,7 +2,7 @@
 https://github.com/user-attachments/assets/8e1d6ee2-dc3f-4f80-b00a-cc13631bd8b4
 
 ## BTK Akademi Kurs Başvuru Sistemi
-
+ 
 ### Proje Amacı
 Bu proje, BTK Akademi'deki öğrencilerin kurslara başvuru yapabileceği bir sistem oluşturmayı amaçlamaktadır. Sistem, her öğrenciye yalnızca bir kursa başvuru yapma hakkı tanır. Bir kursa başvurduktan sonra, öğrenci başka bir kursa başvuramaz.
 
